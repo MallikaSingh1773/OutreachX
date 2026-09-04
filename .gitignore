@@ -1,0 +1,21 @@
+# Outreach log contains real people's names, headlines and LinkedIn profile URLs.
+# Never commit this.
+outreach_log.csv
+*.csv
+
+# Local config may hold credentials
+config.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

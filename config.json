@@ -1,0 +1,30 @@
+{
+    "linkedin_email": "",
+    "linkedin_password": "",
+
+    "your_name": "Mallika Singh",
+    "role_interest": "Software Engineering",
+
+    "target_companies": [],
+
+    "target_roles": [
+        "Recruiter",
+        "HR",
+        "Human Resources",
+        "Talent Acquisition",
+        "Senior Software Engineer",
+        "Engineering Manager",
+        "Tech Lead",
+        "Hiring Manager"
+    ],
+
+    "note_template": "Hi {first_name}, I'm currently exploring {role_interest} opportunities at {company}. I came across your profile and would really appreciate connecting with you. Thank you!",
+
+    "max_requests_per_company": 20,
+    "delay_between_requests_sec": [5, 12],
+    "delay_between_searches_sec": [10, 20],
+    "max_total_requests_per_session": 80,
+
+    "headless": false,
+    "log_file": "outreach_log.csv"
+}
