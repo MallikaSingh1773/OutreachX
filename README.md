@@ -200,14 +200,4 @@ Edit `BRAVE_PATHS` at the top of `linkedin_bot_gui.py` to point at your `brave.e
 
 ---
 
-## A note on responsible use
 
-Automating LinkedIn is against their User Agreement, which prohibits using bots or automated methods to access the service. Accounts have been restricted and permanently banned for it. You are choosing that risk for an account that matters to your job search, so it is worth knowing rather than discovering later.
-
-Beyond the account risk, the people on the other end are real. Keep volumes low, keep the note honest, and do not send the same message to someone twice. A smaller number of genuine, relevant connections will do more for you than a few hundred that get ignored.
-
----
-
-## Licence
-
-MIT
